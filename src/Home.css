@@ -1,0 +1,55 @@
+.home{
+    width: 100%;
+    align-items: center;
+    height: 100vh;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+
+
+
+.intro{
+    
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+
+}
+
+.intro h1{
+  font-size: 40px;
+ 
+}
+
+.intro p{
+  color: #818AA3;
+  word-spacing: 3px;
+  text-align: justify;
+  padding: 0px;
+  width: 600px;
+  text-align: center;
+  font-size: large;
+ 
+}
+
+.intro h1{
+  letter-spacing: .2rem;
+  color: #F1FFFA
+}
+
+.socials2 svg{
+  color: #CF1259;
+  margin: 5px;
+}
+
+/* I’m a software engineer based in Michigan. I have a great interest in full-stack development, game development, and cloud computing. Always looking to learn and experience new things. */
+
+
+
+
+
