@@ -12,7 +12,7 @@ function About() {
       
       <p>I graduated from Wayne State University with a 
       BS in Computer Science, and am actively seeking entry-level 
-      opportunities to grow and enhance my career. </p>
+      opportunities in backend development. I am currently working towards my AWS Cloud Practitioner Certification. </p>
 
       <p>
       <h4>Technologies and languages I am familiar with: </h4>
